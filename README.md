@@ -8,7 +8,7 @@ associado json.
 Este projeto ainda está em fase de prototipagem, e não está totalmente fechado.
 
 No arquivo arquitet.py temos o programa principal e no arquivo cadastro_user.py temos o programa que cadastra os usuários
-Para se usar o pprograma principal deve ser feito o cadastro, como manutentor ou solicitante.
+Para se usar o pprograma principal deve ser feito o cadastro (ou seja deve se executar o programa cadastro_user.py antes do arquitet.py), como manutentor ou solicitante.
 
 
 
